@@ -1,4 +1,4 @@
-![logo](https://github.com/devmahin/devmahin/blob/main/png_20231115_122749_0000.png)
+![logo](https://github.com/Mahen-Howlader/Mahen-Howlader/blob/main/png_20231115_122749_0000.png)
 <h1 align="center">Hi 👋, I'm Mahin Howlader</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -44,11 +44,11 @@ Sure, here's a concise "About Me" for a React developer:
 
 ### - 🚀 Quick Stats
 
-| <a href="https://github.com/devmahin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahin&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="devmahin's github stats" /></a> | <a href="https://github.com/devmahin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmahin&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/Mahen-Howlader"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahen-Howlader&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mahen-Howlader's github stats" /></a> | <a href="https://github.com/Mahen-Howlader"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahen-Howlader&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 ##
 
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmahin&" alt="devmahin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahen-Howlader&" alt="Mahen-Howlader" /></p>
